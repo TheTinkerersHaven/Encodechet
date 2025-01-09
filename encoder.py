@@ -15,8 +15,9 @@ except:
     raise(Exception("Sei un coglione!"))
 
 # Sostituisce le lettere ASCII (se usi unicode puzzi) con la nostra codifica fantastica e totalmente utile
-for lettera, codice in codifica.items():
-    testo=testo.replace(lettera, codice)
+testoOut = ""
+for c in testo:
+    testoOut += codifica[c]
 
 with open(percorso+".edch", "w") as f:
-    f.write(testo)
+    f.write(testoOut)
