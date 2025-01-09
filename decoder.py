@@ -27,4 +27,4 @@ for i in range(0, len(testo), 7):
 percorsoOut = percorsoIn[:-5]  # Rimuove gli ultimi 4 caratteri
 
 with open(percorsoOut, "w") as f:
-    f.write(testo)
+    f.write(testoOut)
