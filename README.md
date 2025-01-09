@@ -1,12 +1,14 @@
 # :sparkles: Encodechet :sparkles:	
 
-Encodechet is a fun, lightweight, and entirely **useless** encoder/decoder for text files that uses the custom `.edch` format. It's perfect for anyone looking to experiment with a quirky encoding system or to confuse their friends with unreadable file formats!
+Encodechet is a fun, lightweight (yes yes i know Python is slow, shut up), and entirely **useless** encoder/decoder for text files that uses the custom `.edch` format. It's perfect for anyone looking to experiment with a quirky encoding system or to confuse their friends with unreadable file formats!
 
 ## Features
 
-- Encode text files into the custom `.edch` format.
-- Decode `.edch` files back into readable text.
-- Completely useless but oddly satisfying to use.
+- Encode text files into the custom `.edch` format;
+- Decode `.edch` files back into readable text;
+- Completely useless but oddly satisfying to use;
+- Confuse your friends (or enemies) by sending them a totally garbage unreadable file;
+- Get laughed at every time you open an encoded .edch file.
 
 ## Why Use Encodechet?
 
@@ -14,7 +16,7 @@ This project exists purely for fun and experimentation. If you're curious about 
 
 ## Why the name Encodechet?
 
-It's a portmanteau of the words "Encode" and "Dechet" (French for "garbage"). It sums up the project pretty well and sounds sick (hell yeah).
+It's a portmanteau of the words "Encode" and "Déchet" (French for "garbage"). It sums up the project pretty well and sounds sick (hell yeah).
 
 ## Prerequisites
 
@@ -35,10 +37,10 @@ It's a portmanteau of the words "Encode" and "Dechet" (French for "garbage"). It
 ## Usage
 
 ### Encoding a Text File
-Open the program, input the text file's path, and choose "encode".
+Open the program, input the text file's path, and choose "encode" (follow the on-screen prompt).
 
 ### Decoding a `.edch` File
-Open the program, input the dechetCode file's path, and choose "encode".
+Open the program, input the dechetCode file's path, and choose "decode" (follow the on-screen prompt).
 
 ## Example
 
@@ -59,11 +61,12 @@ Hello, Encodechet!
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improving Encodechet or want to add your own flavor of uselessness, feel free to submit a pull request.
+Contributions are welcome! If you have ideas for improving Encodechet or want to add your own flavor of uselessness, feel free to submit a pull request. 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Use this as freely as you'd like, but don't expect anyone to understand why you did.
+Officially, it's the [MIT License](LICENSE).
 
 ## Acknowledgments
 
