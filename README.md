@@ -12,6 +12,10 @@ Encodechet is a fun, lightweight, and entirely **useless** encoder/decoder for t
 
 This project exists purely for fun and experimentation. If you're curious about creating custom file formats or encoding mechanisms, Encodechet is a great example to explore!
 
+## Why the name Encodechet?
+
+It's a portmanteau of the words "Encode" and "Dechet" (French for "garbage"). It sums up the project pretty well and sounds sick (hell yeah).
+
 ## Prerequisites
 
 - If you use the compiled .exe file, a Windows installation.
