@@ -93,5 +93,6 @@
     "?": "AHAAAHH",
     "\\": "AHAAAHA",
     "`": "AHAAAAH",
-    "~": "AHAAAAA"
+    "~": "AHAAAAA",
+    "\n": "AAAAAAA"
 }
