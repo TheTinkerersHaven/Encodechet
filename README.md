@@ -1,4 +1,4 @@
-# Encodechet
+# :sparkles: Encodechet :sparkles:	
 
 Encodechet is a fun, lightweight, and entirely **useless** encoder/decoder for text files that uses the custom `.edch` format. It's perfect for anyone looking to experiment with a quirky encoding system or to confuse their friends with unreadable file formats!
 
