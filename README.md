@@ -70,6 +70,6 @@ Officially, it's the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- [@TheTinkerersHaven](https://github.com/TheTinkerersHaven) for coming up with this completely useless project
-- [@Fleny113](https://github.com/Fleny113) for writing the conversion code
-- GitHub Copilot for helping I guess
+- [@TheTinkerersHaven](https://github.com/TheTinkerersHaven) for coming up with this completely useless project (I'm a genius I know)
+- [@Fleny113](https://github.com/Fleny113) for writing the conversion code (he kind of did everything)
+- GitHub Copilot for helping ig
