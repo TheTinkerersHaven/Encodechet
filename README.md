@@ -1,6 +1,7 @@
 # :sparkles: Encodechet :sparkles:	
 
 Encodechet is a fun, lightweight (yes yes i know Python is slow, shut up), and entirely **useless** encoder/decoder for text files that uses the custom `.edch` format. It's perfect for anyone looking to experiment with a quirky encoding system or to confuse their friends with unreadable file formats!
+
 Encodechet uses the latest and greatest LERPC (Low Efficiency Really Poor enCoding) encoding system to guarantee the worst results possible with maximum storage utilization. You're welcome.
 
 ## Features
