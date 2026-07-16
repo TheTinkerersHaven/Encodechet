@@ -18,3 +18,15 @@ target
 
 # rustc will dump stack traces when hitting an internal compiler error to PWD
 rustc-ice-*.txt
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# lock
+Cargo.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
